@@ -1,1 +1,1 @@
-[📹 Lihat Video](video.mp4)
+[📹 Lihat Video](video.gif)
